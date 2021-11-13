@@ -13,7 +13,7 @@
 [<img align="left" alt="Twitter" width="50px" src="https://img.icons8.com/material-outlined/24/000000/twitter.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="50px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png" />][linkedin]
 
-<br />
+<br /><br />
 
 ### Programming Proficiencies:
 <!--
