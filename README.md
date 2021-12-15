@@ -1,6 +1,6 @@
 ### Hello World, I am Stuart Nelson! 👋
 <br/>
-[<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/R12kzU7aoYqDJs6C4H" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/toptalent-agt-americas-got-talent-simon-cowell-R12kzU7aoYqDJs6C4H">via GIPHY</a></p>]
+![Wave](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
 
 ## I am a Masters' Student at the Texas A&M School of Computer Science!
 
