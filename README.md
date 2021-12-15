@@ -1,8 +1,5 @@
 ### Hello World, I am Stuart Nelson! 👋 
 
-<script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
-<script type="IN/FollowCompany" data-id="0000" data-counter="bottom"></script>
-
 ## I am a Masters' Student at the Texas A&M School of Computer Science!
 
 - 🌱 I completed my Bachelors' in General Engineering at Oral Roberts University
@@ -46,23 +43,11 @@ Order by most proficient!
 <img align="left" alt="Java" width="50px" src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="Node.js" width="50px" src="https://img.icons8.com/windows/32/000000/node-js.png"/>
 <img align="left" alt="MySQL" width="50px" src="https://img.icons8.com/ios/50/000000/mysql-logo.png" />
-<img align="left" alt="JUCE" width="50px" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-lemon-sauna-flatart-icons-outline-flatarticons.png" />
-<img align="left" alt="ASSEMBLY" width="50px" src="https://img.icons8.com/ios/50/000000/puzzle-matching.png" />
-<img align="left" alt="Affinity" width="50px" src="https://img.icons8.com/ios/50/000000/affinity-photo.png" />
 
 <br />
 <br />
 
 ---
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thessnelson&show_icons=true&hide_border=true" />
-
-</details>
 
 <!--[website]:-->
 [twitter]: https://twitter.com/thes_s_nelson
