@@ -1,6 +1,7 @@
 ### Hello World, I am Stuart Nelson! 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/thes_s_nelson?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=thes_s_nelson)
+<script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/FollowCompany" data-id="0000" data-counter="bottom"></script>
 
 ## I am a Masters' Student at the Texas A&M School of Computer Science!
 
