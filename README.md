@@ -1,7 +1,5 @@
 ### Hello World, I am Stuart Nelson! 👋
 <br/>
-![alt text][Waving Dog]
-[Waving Dog]: https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif "Header"
 
 ## I am a Masters' Student at the Texas A&M School of Computer Science!
 
