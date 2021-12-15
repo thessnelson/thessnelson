@@ -1,6 +1,6 @@
 ### Hello World, I am Stuart Nelson! 👋
 <br/>
-![Wave](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
+![alt text](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif "Waving Dog")
 
 ## I am a Masters' Student at the Texas A&M School of Computer Science!
 
