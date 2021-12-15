@@ -1,12 +1,12 @@
 ### Hello World, I am Stuart Nelson! 👋
 <br/>
-![alt text](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif "Waving Dog")
+![Waving Dog](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif){:class="img-responsive"}
 
 ## I am a Masters' Student at the Texas A&M School of Computer Science!
 
 - 🌱 I completed my Bachelors' in General Engineering at Oral Roberts University
 - 🔭 I currently teach Python and Web Development part time for Coding with Kids
-- ⚡ I always love learning about Cybersecurity, Reverse Engineering, UI/UX Design, and Audio/VST Development!
+- ⚡ My core competencies are Front-End Development (UI/UX) as well as MERN, WAMP, and LAMP Stack Development.
 
 ### Find me Elsewhere!
 
