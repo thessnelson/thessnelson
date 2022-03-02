@@ -1,16 +1,16 @@
 ### Hello World, I am Stuart Nelson! 👋
 <br/>
 
-## I am a Masters' Student at the Texas A&M School of Computer Science!
+## I love helping startups build their ideas and helping enterprises protect their ideas.
 
 - 🌱 I completed my Bachelors' in General Engineering at Oral Roberts University
-- 🔭 I currently teach Python and Web Development part time for Coding with Kids
-- ⚡ My core competencies are Front-End Development (UI/UX) as well as MERN, WAMP, and LAMP Stack Development.
+- 🔭 I work with multiple startups and teach WAMP development part time
+- ⚡ Cybersecurity + Front End Development are my areas of expertise.
 
 ### Find me Elsewhere!
 
-[<img align="left" alt="Twitter" width="50px" src="https://img.icons8.com/material-outlined/24/000000/twitter.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="50px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png" />][linkedin]
+[<img align="left" alt="Twitter" width="50px" src="https://img.icons8.com/ios/100/000000/twitter--v2.png"/>][twitter]
+[<img align="left" alt="LinkedIn" width="50px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.png" />][linkedin]
 
 <br /><br />
 
