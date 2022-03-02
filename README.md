@@ -27,8 +27,8 @@ Order by most proficient!
 <img align="left" alt="Java" width="50px" src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="Node.js" width="50px" src="https://img.icons8.com/windows/32/000000/node-js.png"/>
 
-<br />
-<br />
+<br /><br />
+
 ### Current Projects:
 -BuzzPass: A covert file sharing device
 -Carmen: An app that helps you find the perfect photo-op wherever you are
