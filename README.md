@@ -1,11 +1,9 @@
 ### Hello World, I am Stuart Nelson! 👋
 <br/>
 
-## I love helping startups build their ideas and helping enterprises protect their ideas.
-
+- ⚡ Cybersecurity + Front End Development are my areas of expertise.
 - 🌱 I completed my Bachelors' in General Engineering at Oral Roberts University
 - 🔭 I work with multiple startups and teach WAMP development part time
-- ⚡ Cybersecurity + Front End Development are my areas of expertise.
 
 ### Find me Elsewhere!
 
