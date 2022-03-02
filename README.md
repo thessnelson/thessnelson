@@ -24,10 +24,8 @@ Order by most proficient!
 <img align="left" alt="CSS3" width="50px" src="https://img.icons8.com/ios/50/000000/css.png" />
 <img align="left" alt="Python" width="50px" src="https://img.icons8.com/ios/50/000000/python--v1.png" />
 <img align="left" alt="C++" width="50px" src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" />
-<img align="left" alt="C#" width="50px" src="https://img.icons8.com/ios/50/000000/c-sharp-logo.png" />
 <img align="left" alt="Java" width="50px" src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="Node.js" width="50px" src="https://img.icons8.com/windows/32/000000/node-js.png"/>
-<img align="left" alt="MySQL" width="50px" src="https://img.icons8.com/ios/50/000000/mysql-logo.png" />
 
 <br />
 <br />
