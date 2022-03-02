@@ -35,8 +35,6 @@ Order by most proficient!
 - Everbull: An educational platform for new options traders
 - Mr Value: A market valuation platform
 <br />
-<br />
-
 ---
 
 <!--[website]:-->
