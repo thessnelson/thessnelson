@@ -29,6 +29,13 @@ Order by most proficient!
 
 <br />
 <br />
+### Current Projects:
+-BuzzPass: A covert file sharing device
+-Carmen: An app that helps you find the perfect photo-op wherever you are
+-Everbull: An educational platform for new options traders
+-Mr Value: A market valuation platform
+<br />
+<br />
 
 ---
 
