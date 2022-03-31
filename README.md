@@ -30,6 +30,8 @@ Order by most proficient!
 ### Current Projects:
 - Everbull: An educational platform for new options traders
 - Mr Value: A market valuation platform
+- Carmen: Applying machine learning to get the perfect photo-op
+- BuzzPass: A new ZigBee-based communication method
 <br />
 
 ---
