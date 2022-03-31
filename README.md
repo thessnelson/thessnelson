@@ -2,7 +2,7 @@
 <br/>
 
 - ⚡ Cybersecurity + Front End Development are my areas of expertise.
-- 🌱 I completed my Bachelors' in General Engineering at Oral Roberts University
+- 🌱 I completed my Bachelors' in General Engineering at Oral Roberts University and am finishing up my Masters' in Computer Science in December of this year!
 - 🔭 I work with multiple startups and teach WAMP development part time
 
 ### Find me Elsewhere!
