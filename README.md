@@ -1,9 +1,9 @@
 ### Hello World, I am Stuart Nelson! 👋
 <br/>
 
-- ⚡ Cybersecurity + Front End Development are my areas of expertise.
+- ⚡ Cybersecurity + Software Development are my areas of expertise.
 - 🌱 I completed my Bachelors' in General Engineering at Oral Roberts University and am finishing up my Masters' in Computer Science in December of this year!
-- 🔭 I work with multiple startups and teach WAMP development part time
+- 🔭 I work with multiple startups and work with the Cybersecurity department at A&M part-time.
 
 ### Find me Elsewhere!
 
@@ -16,6 +16,12 @@
 <!--
 Order by most proficient!
 -->
+<!--C/C++, Python, Rust, Bash, Node, Solidity, GraphQL -->
+<img align="left" alt="C++" width="50px" src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" />
+<img align="left" alt="Python" width="50px" src="https://img.icons8.com/ios/50/000000/python--v1.png" />
+
+<img align="left" alt="Solidity" width="50px"img src="https://img.icons8.com/ios-filled/50/000000/solidity.png"/>
+
 <img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/ios/50/000000/javascript--v1.png" />
 <img align="left" alt="React" width="50px" src="https://img.icons8.com/ios-glyphs/30/000000/react.png" />
 <img align="left" alt="HTML5" width="50px" src="https://img.icons8.com/ios/50/000000/html.png" />
@@ -31,7 +37,6 @@ Order by most proficient!
 - Everbull: An educational platform for new options traders
 - Mr Value: A market valuation platform
 - Carmen: Applying machine learning to get the perfect photo-op
-- BuzzPass: A new ZigBee-based communication method
 <br />
 
 ---
