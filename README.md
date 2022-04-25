@@ -20,7 +20,7 @@ Order by most proficient!
 <img align="left" alt="C++" width="50px" src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" />
 <img align="left" alt="Python" width="50px" src="https://img.icons8.com/ios/50/000000/python--v1.png" />
 
-<img align="left" alt="Solidity" width="50px"img src="https://img.icons8.com/ios-filled/50/000000/solidity.png"/>
+<img align="left" alt="Solidity" width="50px" src="https://img.icons8.com/ios-filled/50/000000/solidity.png"/>
 
 <img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/ios/50/000000/javascript--v1.png" />
 <img align="left" alt="React" width="50px" src="https://img.icons8.com/ios-glyphs/30/000000/react.png" />
