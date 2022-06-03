@@ -9,16 +9,17 @@
 </div>
 
 <h3 align="center">Find me Elsewhere!</h3>
-
+<div align="center">
 [<img align="left" alt="Twitter" width="50px" src="https://img.icons8.com/ios/100/000000/twitter--v2.png"/>][twitter]
 [<img align="left" alt="LinkedIn" width="50px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.png" />][linkedin]
-
+</div>
 <br /><br />
 
 <h3 align="center">My toolbox:</h3>
 <!--
 Order by most proficient!
 -->
+<div align="center">
 <!--C/C++, Python, Rust, Bash, Node, Solidity, GraphQL -->
 <img align="left" alt="C++" width="50px" src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" />
 <img align="left" alt="Python" width="50px" src="https://img.icons8.com/ios/50/000000/python--v1.png" />
@@ -28,7 +29,7 @@ Order by most proficient!
 <img align="left" alt="Solidity" width="50px" src="https://img.icons8.com/ios-filled/50/000000/solidity.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/ios/50/000000/javascript--v1.png" />
 <img align="left" alt="GraphQL" width="50px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-graphql-an-open-source-data-query-and-manipulation-language-for-api-logo-bold-tal-revivo.png"/>
-
+</div>
 <br /><br />
 
 ---
