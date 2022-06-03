@@ -1,10 +1,12 @@
-### Hello World, I am Stuart Nelson! 👋
-<br/>
+<h1 align="center">Hello World, I'm Stuart! 👋</h1>
+<h3 align="center">(Future) Master of Science in Computer Science</h3>
+<div>
 
-- ⚡ Cybersecurity + Software Development are my areas of expertise.
-- 🌱 I completed my Bachelors' in General Engineering at Oral Roberts University and am finishing up my Masters' in Computer Science in December of this year!
-- 🔭 I work with multiple startups and work with the Cybersecurity department at A&M part-time.
-
+- 🤝 I am a Cybersecurity Intern at FlightSafetyInternational and attend grad school at Texas A&M (Gig'Em!)
+- 🌱 I am currently learning Powershell and Rust while working on my Pentest+
+- 🔭 I work as a part-time CTO at two fintech startups, Mr.Value and Everbull
+- 📝 I am always learning something new, so I look forward to posting some of what I learn right here!
+</div>
 ### Find me Elsewhere!
 
 [<img align="left" alt="Twitter" width="50px" src="https://img.icons8.com/ios/100/000000/twitter--v2.png"/>][twitter]
@@ -27,12 +29,6 @@ Order by most proficient!
 <img align="left" alt="GraphQL" width="50px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-graphql-an-open-source-data-query-and-manipulation-language-for-api-logo-bold-tal-revivo.png"/>
 
 <br /><br />
-
-### Current Projects:
-- Everbull: An educational platform for new options traders
-- Mr Value: A market valuation platform
-- Carmen: Applying machine learning to get the perfect photo-op
-<br />
 
 ---
 
