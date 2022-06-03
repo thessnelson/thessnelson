@@ -10,8 +10,8 @@
 
 <h3 align="center">Find me Elsewhere!</h3>
 <div align="center">
-[<img align="center" alt="Twitter" width="50px" src="https://img.icons8.com/ios/100/000000/twitter--v2.png"/>][twitter]
-[<img align="center" alt="LinkedIn" width="50px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.png" />][linkedin]
+<img align="center" alt="Twitter" width="50px" src="https://img.icons8.com/ios/100/000000/twitter--v2.png"/>
+<img align="center" alt="LinkedIn" width="50px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.png" />linkedin
 </div>
 <br /><br />
 
@@ -20,6 +20,7 @@
 Order by most proficient!
 -->
 <!--C/C++, Python, Rust, Bash, Node, Solidity, GraphQL -->
+<div align="center">
 <img align="center" alt="C++" width="50px" src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" />
 <img align="center" alt="Python" width="50px" src="https://img.icons8.com/ios/50/000000/python--v1.png" />
 <img align="center" alt="Rust" width="50px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png"/>
@@ -28,6 +29,7 @@ Order by most proficient!
 <img align="center" alt="Solidity" width="50px" src="https://img.icons8.com/ios-filled/50/000000/solidity.png"/>
 <img align="center" alt="JavaScript" width="50px" src="https://img.icons8.com/ios/50/000000/javascript--v1.png" />
 <img align="center" alt="GraphQL" width="50px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-graphql-an-open-source-data-query-and-manipulation-language-for-api-logo-bold-tal-revivo.png"/>
+</div>
 <br /><br />
 
 ---
