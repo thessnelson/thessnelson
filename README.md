@@ -7,14 +7,15 @@
 - 🔭 I work as a part-time CTO at two fintech startups, Mr.Value and Everbull
 - 📝 I am always learning something new, so I look forward to posting some of what I learn right here!
 </div>
-### Find me Elsewhere!
+
+<h3 align="center">Find me Elsewhere!</h3>
 
 [<img align="left" alt="Twitter" width="50px" src="https://img.icons8.com/ios/100/000000/twitter--v2.png"/>][twitter]
 [<img align="left" alt="LinkedIn" width="50px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.png" />][linkedin]
 
 <br /><br />
 
-### Programming Proficiencies:
+<h3 align="center">My toolbox:</h3>
 <!--
 Order by most proficient!
 -->
