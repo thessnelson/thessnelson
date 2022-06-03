@@ -11,7 +11,7 @@
 <h3 align="center">Find me Elsewhere!</h3>
 <div align="center">
 <img align="center" alt="Twitter" width="50px" src="https://img.icons8.com/ios/100/000000/twitter--v2.png"/>
-<img align="center" alt="LinkedIn" width="50px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.png" />linkedin
+<img align="center" alt="LinkedIn" width="50px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.png" />
 </div>
 <br /><br />
 
