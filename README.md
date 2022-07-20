@@ -2,7 +2,7 @@
 <h3 align="center">(Future) Master of Science in Computer Science</h3>
 <div>
 
-- 🤝 I am a Cybersecurity Intern at FlightSafetyInternational and attend grad school at Texas A&M (Gig'Em!)
+- 🤝 I am a Cybersecurity Intern at Flight Safety and attend grad school at Texas A&M (Gig'Em!)
 - 🌱 I am currently learning Powershell and Rust while working on my Pentest+
 - 🔭 I work as a part-time CTO at two fintech startups, Mr.Value and Everbull
 - 📝 I am always learning something new, so I look forward to posting some of what I learn right here!
