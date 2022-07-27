@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Stuart! 👋</h1>
-<h3 align="center">(Future) Master of Science in Computer Science</h3>
+<h3 align="center">Master of Science in Cybersecurity</h3>
 <div>
 
 - 🤝 I am a Cybersecurity Intern at Flight Safety and attend grad school at Texas A&M (Gig'Em!)
@@ -10,8 +10,8 @@
 
 <h3 align="center">Find me Elsewhere!</h3>
 <div align="center">
-<img align="center" alt="Twitter" width="50px" src="https://img.icons8.com/ios/100/000000/twitter--v2.png"/>
-<img align="center" alt="LinkedIn" width="50px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.png" />
+<img align="center" alt="Twitter" width="50px" src="https://img.icons8.com/ios/100/000000/twitter--v2.png"/>[twitter]
+<img align="center" alt="LinkedIn" width="50px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.png" />[linkedin]
 </div>
 <br /><br />
 
