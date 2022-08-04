@@ -28,8 +28,43 @@ Order by most proficient!
 -->
 <!--bash, c, cplusplus, css3, dot-net, firebase, flutter, github, heroku, html5, java, kotlin, kubernetes, latex, linux, matlab, mysql, python, rust, Webpack-->
 <div align="center">
-<img align="center" alt="bash" width="26px" src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" />
-<img align="center" alt="bash" width="26px" src="https://img.icons8.com/color/48/000000/bash.png" />
+<img align="center" alt="bash" width="48px" src="https://img.icons8.com/color/48/000000/bash.png" />
+
+<img align="center" alt="cplusplus" width="48px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-shadow-tal-revivo.png" />
+  
+<img align="center" alt="css3" width="48px" src="https://img.icons8.com/color/48/000000/css3.png" />
+
+<img align="center" alt="dot-net" width="48px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-shadow-tal-revivo.png" />
+  
+<img align="center" alt="firebase" width="48px" src="https://img.icons8.com/color/48/000000/firebase.png" />
+  
+<img align="center" alt="flutter" width="48px" src="https://img.icons8.com/color/48/000000/flutter.png" />
+
+<img align="center" alt="heroku" width="48px" src="https://img.icons8.com/color/48/000000/heroku.png" />
+  
+<img align="center" alt="html5" width="48px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+  
+<img align="center" alt="java" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
+  
+<img align="center" alt="javascript" width="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+  
+<img align="center" alt="kotlin" width="48px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
+  
+<img align="center" alt="kubernetes" width="48px" src="https://img.icons8.com/color/48/000000/kubernetes.png" />
+  
+<img align="center" alt="latex" width="48px" src="https://img.icons8.com/fluency/48/000000/texshop.png" />
+  
+<img align="center" alt="linux" width="48px" src="https://img.icons8.com/color/48/000000/linux--v1.png" />
+  
+<img align="center" alt="matlab" width="48px" src="https://img.icons8.com/fluency/48/000000/matlab.png" />
+  
+<img align="center" alt="mysql" width="48px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+
+<img align="center" alt="node" width="48px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />
+  
+<img align="center" alt="python" width="48px" src="https://img.icons8.com/color/48/000000/python--v1.png" />
+  
+<img align="center" alt="webpack" width="48px" src="https://img.icons8.com/color/48/000000/webpack.png" />
 </div>
 <br /><br />
 
