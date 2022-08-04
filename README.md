@@ -29,7 +29,7 @@ Order by most proficient!
 <!--bash, c, cplusplus, css3, dot-net, firebase, flutter, github, heroku, html5, java, kotlin, kubernetes, latex, linux, matlab, mysql, python, rust, Webpack-->
 <div align="center">
 <img align="center" alt="bash" width="26px" src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" />
-<img align="center" alt="bash" width="26px" src="<img align="center" alt="bash" width="26px" src="https://img.icons8.com/color/48/000000/bash.png"/>
+<img align="center" alt="bash" width="26px" src="https://img.icons8.com/color/48/000000/bash.png" />
 </div>
 <br /><br />
 
