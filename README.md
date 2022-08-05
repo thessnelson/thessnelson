@@ -10,22 +10,13 @@
 
 <h3 align="center">Find me Elsewhere!</h3>
 <div align="center">
-<!--
-[<img align="center" alt="Twitter" width="50px" src="https://img.icons8.com/ios/100/000000/twitter--v2.png"/>][twitter]
-[<img align="center" alt="LinkedIn" width="50px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.png" />][linkedin]
--->
-<!--
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/thes_s_nelson#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
--->
+<img align="center" alt="linkedin" width="48px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+
+<img align="center" alt="twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
 </div>
 <br /><br />
 
 <h3 align="center">My toolbox:</h3>
-<!--
-Order by most proficient!
--->
 <!--bash, c, cplusplus, css3, dot-net, firebase, flutter, github, heroku, html5, java, kotlin, kubernetes, latex, linux, matlab, mysql, python, rust, Webpack-->
 <div align="center">
 <img align="center" alt="bash" width="48px" src="https://img.icons8.com/color/48/000000/bash.png" />
