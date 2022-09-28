@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Stuart! 👋</h1>
-<h3 align="center">Master of Science in Cybersecurity</h3>
+<h3 align="center">Master of Science in Computer Science</h3>
 <div>
 
 - 🤝 I am a student in his last semester of his Masters' in Computer Science at Texas A&M!
@@ -17,7 +17,7 @@
 <br /><br />
 
 <h3 align="center">My toolbox:</h3>
-<!--bash, c, cplusplus, css3, dot-net, firebase, flutter, github, heroku, html5, java, kotlin, kubernetes, latex, linux, matlab, mysql, python, rust, Webpack-->
+<!--bash, c, cplusplus, css3, dot-net, firebase, flutter, github, heroku, html5, java, kotlin, latex, linux, matlab, mysql, python, Webpack-->
 <div align="center">
 <img align="center" alt="bash" width="48px" src="https://img.icons8.com/color/48/000000/bash.png" />
 
@@ -41,8 +41,6 @@
   
 <img align="center" alt="kotlin" width="48px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
   
-<img align="center" alt="kubernetes" width="48px" src="https://img.icons8.com/color/48/000000/kubernetes.png" />
-  
 <img align="center" alt="latex" width="48px" src="https://img.icons8.com/fluency/48/000000/texshop.png" />
   
 <img align="center" alt="linux" width="48px" src="https://img.icons8.com/color/48/000000/linux--v1.png" />
@@ -54,6 +52,8 @@
 <img align="center" alt="node" width="48px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />
   
 <img align="center" alt="python" width="48px" src="https://img.icons8.com/color/48/000000/python--v1.png" />
+
+<img align="center" alt="python" width="48px" src="https://img.icons8.com/color/48/000000/react.png" />
   
 <img align="center" alt="webpack" width="48px" src="https://img.icons8.com/color/48/000000/webpack.png" />
 </div>
