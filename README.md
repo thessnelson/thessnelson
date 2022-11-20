@@ -4,7 +4,6 @@
 
 - 🤝 I am a student in his last semester of his Masters' in Computer Science at Texas A&M!
 - 🌱 I am currently learning Powershell and Rust while working on my Pentest+
-- 🔭 I work as a part-time CIO for Mr. Value, a fintech startup
 - 📝 I am always learning something new, so I look forward to posting some of what I learn right here! Once I complete non-proprietary projects, they will appear in my public repositories.
 </div>
 
