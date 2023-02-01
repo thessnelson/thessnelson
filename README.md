@@ -10,7 +10,7 @@
 <div>
 <strong>Current Projects (Code on Private Repos)</strong><br>
 - Portfolio Website (Ruby + Postgres) <br>
-- Stock Trend Prediction Application (Python + Postgres) <br>
+- Stock Trend Prediction Application (Ruby on Rails + Python + Postgres) <br>
 - Bug Bounty Automation (C++, Python, Bash, and PowerShell) <br>
 - CLI-based Digital Audio Workstation (C, C++)
 <br><br>
